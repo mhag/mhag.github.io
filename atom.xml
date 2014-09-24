@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Diary]]></title>
   <link href="http://mhag.github.io/atom.xml" rel="self"/>
   <link href="http://mhag.github.io/"/>
-  <updated>2014-09-24T17:01:42+09:00</updated>
+  <updated>2014-09-24T17:27:52+09:00</updated>
   <id>http://mhag.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[mhag]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
